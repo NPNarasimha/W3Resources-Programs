@@ -1,0 +1,14 @@
+C:\Users\Sai Indu\source\repos\W3Resources Programs\W3Resources Programs\bin\Debug\netcoreapp3.1\W3Resources Programs.exe
+C:\Users\Sai Indu\source\repos\W3Resources Programs\W3Resources Programs\bin\Debug\netcoreapp3.1\W3Resources Programs.deps.json
+C:\Users\Sai Indu\source\repos\W3Resources Programs\W3Resources Programs\bin\Debug\netcoreapp3.1\W3Resources Programs.runtimeconfig.json
+C:\Users\Sai Indu\source\repos\W3Resources Programs\W3Resources Programs\bin\Debug\netcoreapp3.1\W3Resources Programs.runtimeconfig.dev.json
+C:\Users\Sai Indu\source\repos\W3Resources Programs\W3Resources Programs\bin\Debug\netcoreapp3.1\W3Resources Programs.dll
+C:\Users\Sai Indu\source\repos\W3Resources Programs\W3Resources Programs\bin\Debug\netcoreapp3.1\W3Resources Programs.pdb
+C:\Users\Sai Indu\source\repos\W3Resources Programs\W3Resources Programs\obj\Debug\netcoreapp3.1\W3Resources Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Indu\source\repos\W3Resources Programs\W3Resources Programs\obj\Debug\netcoreapp3.1\W3Resources Programs.AssemblyInfoInputs.cache
+C:\Users\Sai Indu\source\repos\W3Resources Programs\W3Resources Programs\obj\Debug\netcoreapp3.1\W3Resources Programs.AssemblyInfo.cs
+C:\Users\Sai Indu\source\repos\W3Resources Programs\W3Resources Programs\obj\Debug\netcoreapp3.1\W3Resources Programs.csproj.CoreCompileInputs.cache
+C:\Users\Sai Indu\source\repos\W3Resources Programs\W3Resources Programs\obj\Debug\netcoreapp3.1\W3Resources Programs.sourcelink.json
+C:\Users\Sai Indu\source\repos\W3Resources Programs\W3Resources Programs\obj\Debug\netcoreapp3.1\W3Resources Programs.dll
+C:\Users\Sai Indu\source\repos\W3Resources Programs\W3Resources Programs\obj\Debug\netcoreapp3.1\W3Resources Programs.pdb
+C:\Users\Sai Indu\source\repos\W3Resources Programs\W3Resources Programs\obj\Debug\netcoreapp3.1\W3Resources Programs.genruntimeconfig.cache
