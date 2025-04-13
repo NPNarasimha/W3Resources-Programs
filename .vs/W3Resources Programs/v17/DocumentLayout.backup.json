@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{B8BF5BD0-7671-4889-95B2-532811C16ACD}|W3Resources Programs\\W3Resources Programs.csproj|solutionrelative:w3resources programs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B8BF5BD0-7671-4889-95B2-532811C16ACD}|W3Resources Programs\\W3Resources Programs.csproj|c:\\users\\sai indu\\source\\repos\\w3resources programs\\w3resources programs\\electricalbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF5BD0-7671-4889-95B2-532811C16ACD}|W3Resources Programs\\W3Resources Programs.csproj|solutionrelative:w3resources programs\\electricalbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF5BD0-7671-4889-95B2-532811C16ACD}|W3Resources Programs\\W3Resources Programs.csproj|c:\\users\\sai indu\\source\\repos\\w3resources programs\\w3resources programs\\isolatetriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF5BD0-7671-4889-95B2-532811C16ACD}|W3Resources Programs\\W3Resources Programs.csproj|solutionrelative:w3resources programs\\isolatetriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF5BD0-7671-4889-95B2-532811C16ACD}|W3Resources Programs\\W3Resources Programs.csproj|c:\\users\\sai indu\\source\\repos\\w3resources programs\\w3resources programs\\percentageanddivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF5BD0-7671-4889-95B2-532811C16ACD}|W3Resources Programs\\W3Resources Programs.csproj|solutionrelative:w3resources programs\\percentageanddivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8BF5BD0-7671-4889-95B2-532811C16ACD}|W3Resources Programs\\W3Resources Programs.csproj|c:\\users\\sai indu\\source\\repos\\w3resources programs\\w3resources programs\\admissionseligible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8BF5BD0-7671-4889-95B2-532811C16ACD}|W3Resources Programs\\W3Resources Programs.csproj|solutionrelative:w3resources programs\\admissionseligible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +47,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ElectricalBill.cs",
+              "DocumentMoniker": "C:\\Users\\Sai Indu\\source\\repos\\W3Resources Programs\\W3Resources Programs\\ElectricalBill.cs",
+              "RelativeDocumentMoniker": "W3Resources Programs\\ElectricalBill.cs",
+              "ToolTip": "C:\\Users\\Sai Indu\\source\\repos\\W3Resources Programs\\W3Resources Programs\\ElectricalBill.cs",
+              "RelativeToolTip": "W3Resources Programs\\ElectricalBill.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwDQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T03:09:01.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IsolateTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\Sai Indu\\source\\repos\\W3Resources Programs\\W3Resources Programs\\IsolateTriangle.cs",
+              "RelativeDocumentMoniker": "W3Resources Programs\\IsolateTriangle.cs",
+              "ToolTip": "C:\\Users\\Sai Indu\\source\\repos\\W3Resources Programs\\W3Resources Programs\\IsolateTriangle.cs",
+              "RelativeToolTip": "W3Resources Programs\\IsolateTriangle.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T02:53:34.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "percentageandDivision.cs",
+              "DocumentMoniker": "C:\\Users\\Sai Indu\\source\\repos\\W3Resources Programs\\W3Resources Programs\\percentageandDivision.cs",
+              "RelativeDocumentMoniker": "W3Resources Programs\\percentageandDivision.cs",
+              "ToolTip": "C:\\Users\\Sai Indu\\source\\repos\\W3Resources Programs\\W3Resources Programs\\percentageandDivision.cs",
+              "RelativeToolTip": "W3Resources Programs\\percentageandDivision.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T02:44:26.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AdmissionsEligible.cs",
               "DocumentMoniker": "C:\\Users\\Sai Indu\\source\\repos\\W3Resources Programs\\W3Resources Programs\\AdmissionsEligible.cs",
               "RelativeDocumentMoniker": "W3Resources Programs\\AdmissionsEligible.cs",
@@ -42,12 +93,11 @@
               "RelativeToolTip": "W3Resources Programs\\AdmissionsEligible.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:16:18.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T09:16:18.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CoordinatesValues.cs",
               "DocumentMoniker": "C:\\Users\\Sai Indu\\source\\repos\\W3Resources Programs\\W3Resources Programs\\CoordinatesValues.cs",
               "RelativeDocumentMoniker": "W3Resources Programs\\CoordinatesValues.cs",
@@ -55,12 +105,11 @@
               "RelativeToolTip": "W3Resources Programs\\CoordinatesValues.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAUwB0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:12:42.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T09:12:42.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "EligibleAge.cs",
               "DocumentMoniker": "C:\\Users\\Sai Indu\\source\\repos\\W3Resources Programs\\W3Resources Programs\\EligibleAge.cs",
               "RelativeDocumentMoniker": "W3Resources Programs\\EligibleAge.cs",
@@ -68,8 +117,7 @@
               "RelativeToolTip": "W3Resources Programs\\EligibleAge.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAQwBUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T09:04:39.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T09:04:39.829Z"
             },
             {
               "$type": "Document",
@@ -79,7 +127,7 @@
               "RelativeDocumentMoniker": "W3Resources Programs\\Program.cs",
               "ToolTip": "C:\\Users\\Sai Indu\\source\\repos\\W3Resources Programs\\W3Resources Programs\\Program.cs",
               "RelativeToolTip": "W3Resources Programs\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T07:03:23.13Z",
               "EditorCaption": ""

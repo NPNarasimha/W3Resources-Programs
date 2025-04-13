@@ -17,7 +17,11 @@ namespace W3Resources_Programs
             //Vowels.Vowel();
             //EligibleAge.Eligible();
             //CoordinatesValues.Coordinates();
-            AdmissionsEligible.Addmissions();
+            //AdmissionsEligible.Addmissions();
+            //percentageandDivision.Division();
+            //IsolateTriangle.FindAngles();
+            ElectricalBill.BillCal();
+
         }
     }
 }
