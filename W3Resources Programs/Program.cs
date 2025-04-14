@@ -20,8 +20,9 @@ namespace W3Resources_Programs
             //AdmissionsEligible.Addmissions();
             //percentageandDivision.Division();
             //IsolateTriangle.FindAngles();
-            ElectricalBill.BillCal();
-
+            //ElectricalBill.BillCal();
+            //RightTriangle.Triangle(5);
+            PyramidPrograms.pyramid(5);
         }
     }
 }
